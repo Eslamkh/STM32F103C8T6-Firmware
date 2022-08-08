@@ -1,2 +1,2 @@
 # ARM_Course
-IMT ARM Diploma
+Firmware for STM32F103C8T6.
