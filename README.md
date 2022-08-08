@@ -1,2 +1,2 @@
-# ARM_Course
+# STM32F103C8T6 Firmware
 Firmware for STM32F103C8T6.
